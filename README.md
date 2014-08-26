@@ -21,6 +21,6 @@ You should now be able to enable it using gnome-tweak-tool, or gsettings
 1. Forked from surfatwork's netctlsystraymenugnome
 
 ## TODO
-[] Rewrite portions for use with NetGUI
-[] Leave notice for original code
-[] Add surfatwork to list of contributors in NetGUI
+[ ] Rewrite portions for use with NetGUI
+[ ] Leave notice for original code
+[ ] Add surfatwork to list of contributors in NetGUI
