@@ -1,4 +1,4 @@
-netctlsystraymenugnome
+NetGUI SysTray Applet
 ======================
 
 This is a gnome applet to display netctl status and switch netctl profiles
@@ -16,3 +16,11 @@ cd ~/.local/share/gnome-shell/extensions/netctlsystraymenugnome@prmurthy
 unzip <path to the file you downloaded>
 
 You should now be able to enable it using gnome-tweak-tool, or gsettings
+
+## Notes
+1. Forked from surfatwork's netctlsystraymenugnome
+
+## TODO
+[] Rewrite portions for use with NetGUI
+[] Leave notice for original code
+[] Add surfatwork to list of contributors in NetGUI
